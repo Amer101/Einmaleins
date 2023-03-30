@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.display {
+    display: flex;
+    margin-left: 38%;
+    margin-top: 100px;
+}
+
+.container {
+    height: 300px;
+    width: 220px;
+    padding: 10px;
+    background-color: rgb(221, 96, 74);
+    box-shadow: 8px 4px tomato;
+
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input[type=number] {
+    width: 50px;
+}
+
+div span {
+   
+}
+
+div p {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.hidden {
+    width: 0px;
+    background-color: rgb(233, 169, 157);
+}
+
+.result {
+    margin-left: 4px;
+    margin-top: 80px;
+}
+
+.result li {
+    list-style-type: none;
+}
